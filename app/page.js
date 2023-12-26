@@ -1,6 +1,6 @@
 import "./styles.css";
-import Nav from "./components/nav";
-import Header from "./components/header";
+import Nav from "./components/Nav";
+import Header from "./components/Header";
 import Section from "./components/Section";
 import Footer from "./components/Footer";
 
