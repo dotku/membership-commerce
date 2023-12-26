@@ -19,7 +19,8 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body className={inter.className}>{children}</body>
-      <Script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" />
+      <Script src="//cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" />
+      <Script src="//code.tidio.co/buulmo8u08xlydrmpe5v8a9emkezcz17.js" async />
     </html>
   );
 }
